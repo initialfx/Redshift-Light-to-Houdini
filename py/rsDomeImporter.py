@@ -1,4 +1,5 @@
-# added background_enable attribute
+# Import Environment(Dome) Light into Houdini
+# https://github.com/joppevos/Maya-to-Houdini 
 
 # Edit: Jihyun Nam
 # Version: 1.0.0

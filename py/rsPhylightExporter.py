@@ -1,4 +1,5 @@
-# Export rsPhysical Light
+# Export rsPhysical Light from Maya
+# https://github.com/joppevos/Maya-to-Houdini 
 
 # Edit: Jihyun Nam
 # Version: 1.0.0
